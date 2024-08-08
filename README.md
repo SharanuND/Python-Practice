@@ -1,3 +1,3 @@
 # Python-Practice
 
-My practice on python will be there for my personal record in this repo
+In this repo you will find all the python programs done by me for the sake of practice will be present. I wont delete it.
